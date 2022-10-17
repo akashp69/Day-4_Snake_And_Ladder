@@ -1,7 +1,5 @@
 package com.bridgelabz;
 
-import java.util.Scanner;
-
 public class SnakeAndLadder {
     public static void main(String[] args) {
 
