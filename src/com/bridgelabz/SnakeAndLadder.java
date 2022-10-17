@@ -20,7 +20,7 @@ public class SnakeAndLadder {
             System.out.println("No Play");
         }
         if(position<=100)
-            System.out.println("current postion after  is: " + position);
+            System.out.println("current postion after roll die is: " + position);
         else
             System.out.println("Throw Die Again");
 
